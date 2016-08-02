@@ -1,0 +1,1 @@
+# Analytical-3D-Models-Icosahedral-Shells
