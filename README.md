@@ -11,17 +11,17 @@ http://arxiv.org/abs/1408.1582
 </p>
 <br/>
 <br/>
-<b><h2 align="center">Icosahedron</h1></2>
-<br/>
-<p align="center">
-<img src="./Icosahedron.gif"></img>
-</p>
-<br/>
-<br/>
 <b><h2 align="center">Model-based 3D reconstruction</h1></2>
 <br/>
 <p align="center">
 <img src="./modelBased.png"></img>
+</p>
+<br/>
+<br/>
+<b><h2 align="center">Icosahedron</h1></2>
+<br/>
+<p align="center">
+<img src="./Icosahedron.gif"></img>
 </p>
 <br/>
 <br/>
