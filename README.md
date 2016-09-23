@@ -4,9 +4,26 @@ Modelling the 3D geometry and density variations (texture) of an icosahedral-bas
 http://arxiv.org/abs/1408.1582
 </p>
 <p align="center">
+<b><h2 align="center">Viruses</h1></2>
+<br/>
+<p align="center">
+<img src="./virus_collage.jpg"></img>
+<br/>
+<br/>
+<b><h2 align="center">Icosahedron</h1></2>
+<br/>
+</p>
+<p align="center">
+<img src="./Icosahedron.gif"></img>
+<br/>
+<br/>
+</p>
+<p align="center">
 <img src="./Spectrum.png"></img>
 <br/>
 <br/>
+</p>
+<p align="center">
 <img src="./analyticalFT.png"></img>
 </p>
 
