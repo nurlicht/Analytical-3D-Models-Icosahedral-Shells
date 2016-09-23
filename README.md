@@ -8,21 +8,28 @@ http://arxiv.org/abs/1408.1582
 <br/>
 <p align="center">
 <img src="./virus_collage.jpg"></img>
+</p>
 <br/>
 <br/>
 <b><h2 align="center">Icosahedron</h1></2>
 <br/>
-</p>
 <p align="center">
 <img src="./Icosahedron.gif"></img>
-<br/>
-<br/>
 </p>
+<br/>
+<br/>
+<b><h2 align="center">Model-based 3D reconstruction</h1></2>
+<br/>
+<p align="center">
+<img src="./modelBased.png"></img>
+</p>
+<br/>
+<br/>
 <p align="center">
 <img src="./Spectrum.png"></img>
-<br/>
-<br/>
 </p>
+<br/>
+<br/>
 <p align="center">
 <img src="./analyticalFT.png"></img>
 </p>
