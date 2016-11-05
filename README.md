@@ -14,7 +14,6 @@ http://arxiv.org/abs/1408.1582
 <br/>
 <br/>
 
-<b><h2 align="center">Icosahedral spectrum</h1></2>
 <br/>
 <p align="center">
 <img src="./Spectrum.png"></img>
@@ -22,7 +21,6 @@ http://arxiv.org/abs/1408.1582
 <br/>
 <br/>
 
-<b><h2 align="center">Icosahedron</h1></2>
 <br/>
 <p align="center">
 <img src="./analyticalFT.png"></img>
