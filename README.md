@@ -3,12 +3,6 @@
 Modelling the 3D geometry and density variations (texture) of an icosahedral-based object: These formulations enable one to simulate diverse 3D patterns relevant to icosahedral viruses (<i>forward</i> problem), and also form the foundations of a robust model-based reconstruction in handling experimental data (<i>inverse</i> prblem). More details:
 http://arxiv.org/abs/1408.1582
 </p>
-<p align="center">
-<b><h2 align="center">Viruses</h1></2>
-<br/>
-<p align="center">
-<img src="./virus_collage.jpg"></img>
-</p>
 <br/>
 <br/>
 <b><h2 align="center">Model-based 3D reconstruction</h1></2>
@@ -19,16 +13,6 @@ http://arxiv.org/abs/1408.1582
 <br/>
 <br/>
 <b><h2 align="center">Icosahedron</h1></2>
-<br/>
-<p align="center">
-<img src="./Icosahedron.gif"></img>
-</p>
-<br/>
-<br/>
-<p align="center">
-<img src="./Spectrum.png"></img>
-</p>
-<br/>
 <br/>
 <p align="center">
 <img src="./analyticalFT.png"></img>
